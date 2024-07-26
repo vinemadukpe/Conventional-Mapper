@@ -1,1 +1,1 @@
-# Ball-Mapper
+# Conventional Mapper
